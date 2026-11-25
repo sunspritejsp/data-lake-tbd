@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Projeto
+CLAUDE.md
+# Dataset bruto (~275 MB; historico_aulas.csv > limite de 100 MB do GitHub)
+data/
+# Material de aula (não versionar)
+Aula 07 Plataforma Dados.pdf
+*.pdf
+# Anotações pessoais
+anotacoes.md
+# Material de referência do professor (não versionar)
+referencia-aula/
+# Aulas interativas de estudo (material pessoal)
+aulas/
+# Pacotes gerados
+*.zip
+# Notas de construção e backlog (pessoais)
+notas.md
+docs/issues.md
